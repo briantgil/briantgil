@@ -7,49 +7,50 @@ I have been a technology professional since 2010. Initially, I attended communit
 ### Web
 
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
-- Eloquent JavaScript
-Angular – Introduction to the Angular Docs
-Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)
-Underscores | A Starter Theme for WordPress
-Modern SQL: Pivot — Rows to Columns
-Domain Names, Websites, Hosting & Online Marketing Tools – GoDaddy
-Let’s Encrypt – Free SSL/TLS Certificates
-Fake API – Dummy User and Todo API – Create Your Own (mocki.io)
-Beautiful Free Images & Pictures | Unsplash
-Simple Icons
-The best Favicon Generator (completely free) – favicon.io
-Coolors – The super fast color palettes generator!
+- [Eloquent JavaScript]
+- [Angular](https://angular.dev/)
+- [React](https://react.dev/learn)
+- [Create React App](https://create-react-app.dev/)
+- [Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/)
+- [Modern SQL: Pivot — Rows to Columns](https://modern-sql.com/use-case/pivot)
+- [Domain Names, Websites, Hosting & Online Marketing Tools – GoDaddy](https://www.godaddy.com/)
+- [Let’s Encrypt – Free SSL/TLS Certificates](https://letsencrypt.org/)
+- [Fake API – Dummy User and Todo API – Create Your Own (mocki.io)](https://mocki.io/fake-json-api)
+- [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
+- [Simple Icons](https://simpleicons.org/)
+- [The best Favicon Generator (completely free) – favicon.io](https://favicon.io/)
+- [Coolors – The super fast color palettes generator!](https://coolors.co/)
 
 ### CMD/Terminal
 
-SS64 Command line reference
+[SS64 Command line reference]
 
 ### MacOS
 
-Mac startup key combinations – Apple Support
+[Mac startup key combinations – Apple Support]
 
 ### Windows
 
-POSHGUI
-PowerShell Gallery | Home
+[PowerShell Gallery | Home]
 
 ### Linux/UNIX
 
-Packages Search – pkgs.org
-Network – Configuration | Ubuntu
-The Linux Documentation Project (tldp.org)
-Advanced Bash-Scripting Guide (tldp.org)
-vi_cheat_sheet.pdf (albany.edu)
+[Packages Search – pkgs.org]
+[The Linux Documentation Project (tldp.org)]
+[Advanced Bash-Scripting Guide (tldp.org)]
+[vi_cheat_sheet.pdf (albany.edu)]
 
 ### Development
 
-StackEdit
-Markdown Cheatsheet · adam-p/markdown-here Wiki (github.com)
-When we share, everyone wins – Creative Commons
+[StackEdit]
+[Markdown Cheatsheet · adam-p/markdown-here Wiki (github.com)]
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#links)
+[When we share, everyone wins – Creative Commons]
+
 
 ### Office
 
-Filter by using advanced criteria (microsoft.com)
+[Filter by using advanced criteria (microsoft.com)]
 
 ## Programs
 

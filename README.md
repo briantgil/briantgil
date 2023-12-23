@@ -6,7 +6,7 @@ I have been a technology professional since 2010. Initially, I attended communit
 
 ### Web
 
-[W3Schools Online Web Tutorials]()
+[W3Schools Online Web Tutorials](www.w3schools.com)
 Eloquent JavaScript
 Angular – Introduction to the Angular Docs
 Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)

@@ -1,6 +1,6 @@
-# Hi there 👋 
+# Hello World 👋 
 
-I have been a technology professional since 2010. Initially, I attended community college for business. I graduated from Canisius College with a B.S. in Computer Science and a minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. However, I allowed my Network+ certification to expire.
+Started as a technology professional in 2010. Initially, attended community college for business. Later, graduated from Canisius College with a B.S. in Computer Science and minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. I continue to maintain continuing education credits for A+ and Sec+. 
 
 ## My favorite websites
 
@@ -97,7 +97,7 @@ I have been a technology professional since 2010. Initially, I attended communit
 - [HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
 - [DVDFab Official Site | World’s Leading Multimedia Solution Provider](https://www.dvdfab.cn/)
 - [MakeMKV – Make MKV from Blu-ray and DVD](https://www.makemkv.com/)
-- [CamStudio]
+- CamStudio
 - [Official download of VLC media player, the best Open Source player – VideoLAN](https://www.videolan.org/vlc/)
 - [Media Server Downloads | Plex Media Server for Windows, Mac, Linux, FreeBSD and More](https://www.plex.tv/media-server-downloads/#plex-app)
 
@@ -116,7 +116,7 @@ I have been a technology professional since 2010. Initially, I attended communit
 
 ### Diagraming
 
-- [Dia]
+- Dia
 - [Violet UML Editor download | SourceForge.net](https://sourceforge.net/projects/violet/)
 
 ### Office

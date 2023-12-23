@@ -1,8 +1,8 @@
-# Hi there 👋 **briantgil/briantgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 
 
 I have been a technology professional since 2010. Initially, I attended community college for business. I graduated from Canisius College with a B.S. in Computer Science and a minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. However, I allowed my Network+ certification to expire.
 
-## Favorite References
+## My favorite websites
 
 ### Web
 
@@ -58,13 +58,13 @@ I have been a technology professional since 2010. Initially, I attended communit
 
 - [Common Access Card (CAC) Information for home use (militarycac.com)](https://militarycac.com/)
 
-## Favorite Programs
+## My favorite apps
 
 ### Development
 
--[Git – Downloads](https://git-scm.com/downloads)
--[Visual Studio Code – Code Editing. Redefined](https://code.visualstudio.com/)
--[Postman API Platform | Sign Up for Free](https://www.postman.com/)
+- [Git – Downloads](https://git-scm.com/downloads)
+- [Visual Studio Code – Code Editing. Redefined](https://code.visualstudio.com/)
+- [Postman API Platform | Sign Up for Free](https://www.postman.com/)
 
 ### Troubleshooting
 
@@ -135,6 +135,8 @@ I have been a technology professional since 2010. Initially, I attended communit
 
 
 <!--
+**briantgil/briantgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -18,6 +18,7 @@ Started as a technology professional in 2010. Initially, attended community coll
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/)
 - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 - [Modern SQL: Pivot — Rows to Columns](https://modern-sql.com/use-case/pivot)
+- [New-Object PSObject -Property [HashTable] - PowerShell Team](https://devblogs.microsoft.com/powershell/new-object-psobject-property-hashtable/)
 
 #### Free tools
 
@@ -27,6 +28,7 @@ Started as a technology professional in 2010. Initially, attended community coll
 - [The best Favicon Generator (completely free) – favicon.io](https://favicon.io/)
 - [Coolors – The super fast color palettes generator!](https://coolors.co/)
 - [Lorem Ipsum - All the facts - Lipsum generator](https://www.lipsum.com/)
+- [Lorem Picsum](https://picsum.photos/)
 - [Fake API – Dummy User and Todo API – Create Your Own (mocki.io)](https://mocki.io/fake-json-api)
 - [StackEdit](https://stackedit.io/app#)
 - [POSHGUI](https://poshgui.com/)

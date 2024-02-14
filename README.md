@@ -27,6 +27,7 @@ Started as a technology professional in 2010. Initially, attended community coll
 - [Simple Icons](https://simpleicons.org/)
 - [The best Favicon Generator (completely free) – favicon.io](https://favicon.io/)
 - [Coolors – The super fast color palettes generator!](https://coolors.co/)
+- [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co)
 - [Lorem Ipsum - All the facts - Lipsum generator](https://www.lipsum.com/)
 - [Lorem Picsum](https://picsum.photos/)
 - [Fake API – Dummy User and Todo API – Create Your Own (mocki.io)](https://mocki.io/fake-json-api)

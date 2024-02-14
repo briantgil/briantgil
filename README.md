@@ -4,6 +4,7 @@
 
 Started as a technology professional in 2010. Initially, attended community college for business. Served nearly 10 years on Active Duty. Later, graduated from Canisius College with a B.S. in Computer Science and minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. I maintain continuing education credits for A+ and Sec+. 
 
+<!--
 ## My favorite sites
 
 ### Development
@@ -119,7 +120,7 @@ Started as a technology professional in 2010. Initially, attended community coll
 - [SSH Tunnel – Local and Remote Port Forwarding Explained With Examples – Trackets Blog](https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
 - [SSH port forwarding – Example, command, server config](https://www.ssh.com/ssh/tunneling/example)
 - [How to use local and remote SSH port forwarding – TechRepublic](https://www.techrepublic.com/article/how-to-use-local-and-remote-ssh-port-forwarding/)
-
+-->
 
 
 <!--

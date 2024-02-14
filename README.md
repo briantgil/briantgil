@@ -2,7 +2,7 @@
 
 ## About me
 
-Started as a technology professional in 2010. Initially, attended community college for business. Served nearly 10 years on Active Duty. Later, graduated from Canisius College with a B.S. in Computer Science and minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. I maintain continuing education credits for A+ and Sec+. 
+Started as a technology professional in 2010. Initially, attended community college for business. Served nearly 10 years on Active Duty in the Army. Later, graduated from Canisius College with a B.S. in Computer Science and minor in Management Information Systems. I have passed certification exams for CompTIA’s Network+, A+, and Security+. I maintain continuing education credits for A+ and Sec+. 
 
 <!--
 ## My favorite sites

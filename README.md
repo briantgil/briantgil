@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,6 +7,7 @@
     <title>My Resume</title>
   </head>
   <body>
+  -->
     <img src="https://picsum.photos/200" alt="portrait" />
 
     <h1>Brian T. Gil</h1>
@@ -114,9 +116,10 @@
     <footer>
       <p>Copyright &copy; 2024 Brian T. Gil.</p>
     </footer>
+    <!--
   </body>
 </html>
-
+-->
 
 <!--
 ## My favorite sites

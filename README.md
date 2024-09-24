@@ -2,12 +2,7 @@
 
 ## About me
 
-      Started as a technology professional in 2010. Initially, attended
-      Erie Community College for business, then general studies. Served nearly 10 years on Active Duty.
-      Later, graduated from Canisius University with a B.S. in Computer Science and
-      minor in Management Information Systems. I have passed certification exams
-      for CompTIA's Network+, A+, and Security+. I maintain continuing education
-      credits for A+ and Sec+.
+Technology professional since 2011 when trained on Active Directory and TCP/IP for US Army deployment.  Initially, attended Erie Community College for Business Admin, but earned an A.S. in General Studies.  Served on Active Duty in the US Army as a logistician from 2006-2015.  Later, graduated from Canisius University with a B.S. in Computer Science and minor in Management Information Systems in 2018.  Currently serving in the US Army Reserves as a systems administrator since 2015 while working as a software engineer at M&T Bank since 2020. 
       
 <!--
 **briantgil/briantgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

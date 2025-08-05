@@ -2,7 +2,7 @@
 
 ## About me
 
-[Brian T. Gil](briantgil.com)
+[Brian T. Gil](https://briantgil.com)
       
 <!--
 **briantgil/briantgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

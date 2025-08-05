@@ -2,7 +2,7 @@
 
 ## About me
 
-Technology professional since 2011 when trained on Active Directory and TCP/IP for US Army deployment.  Initially, attended Erie Community College for Business Admin, but earned an A.S. in General Studies.  Served on Active Duty in the US Army as a logistician from 2006-2015.  Later, graduated from Canisius University with a B.S. in Computer Science and minor in Management Information Systems in 2018.  Currently serving in the US Army Reserves as a systems administrator since 2015 while working as a software engineer at M&T Bank since 2020. 
+[Brian T. Gil](briantgil.com)
       
 <!--
 **briantgil/briantgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
